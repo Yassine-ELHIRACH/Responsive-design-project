@@ -1,12 +1,15 @@
 # Front-end-Project
 
 ## Description
-Simple projet comportant deux pages HTML.
+Simple project with two HTML pages.
 
-Objectif : utiliser la bibliothèque Bootstrap pour rendre le site web érgonomique et responsive.
+Objective: use the Bootstrap library to make the website ergonomic and responsive.
 
-Utiliser également javascript pour la gestion des formulaires.
+Also use javascript for forms management.
 
-## Comment lancer le projet
+## How to start the project
 
-Pour lancer le projet, il suffit de télécharger le dépot git, puis ouvrir le fichier index.html dans un navigateur
+To launch the project, simply download the git repository, then open the index.html file in a browser
+
+This project was made in 2019
+
