@@ -10,3 +10,6 @@ Also use javascript for forms management.
 ## How to start the project
 
 To launch the project, simply download the git repository, then open the index.html file in a browser
+
+This project was made in 2019
+
